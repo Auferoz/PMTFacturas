@@ -1,0 +1,479 @@
+@font-face {
+    font-family: 'Digital Play St';
+    src: url("../font/digital_play_st/Digital Play St.ttf");
+}
+
+@font-face {
+    font-family: 'Digital Play Italic St';
+    src: url("../font/digital_play_st/Digital Play Italic St.ttf");
+}
+
+@font-face {
+    font-family: 'Digital Play Hollow St';
+    src: url("../font/digital_play_st/Digital Play Hollow St.ttf");
+}
+
+body {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(../img/Fondo1920x1080.jpg);
+    background-size: auto;
+    background-repeat: repeat;
+    height: auto;
+}
+
+.contenedor {
+    margin: 0px 30px;
+}
+
+.img-top > img {
+    width: 95px;
+    border-radius: 15px;
+}
+
+.img-logo > img {
+    height: 87px;
+}
+
+.Imagen-top a > img {
+    width: 30%;
+    border-radius: 15px;
+}
+
+.Imagen-top > h6 {
+    font-size: 20px;
+    margin: 0px;
+    padding: 20px 0px 0px 0px;
+    position: absolute;
+    max-width: 130px;
+    max-height: 40px;
+    white-space: nowrap;
+    overflow: hidden;
+    o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+
+.round1 {
+    border-top-left-radius: 15px !important;
+    border-bottom-left-radius: 15px !important;
+}
+
+.round2 {
+    border-top-right-radius: 15px !important;
+    border-bottom-right-radius: 15px !important;
+}
+
+.Boton-copyright {
+    color: #FFF;
+    border-radius: 15px;
+    background: #FFF;
+    width: 310px;
+    height: 25px;
+    margin: 20px 0px;
+}
+
+.Boton-copyright > a > h5 {
+    color: #212121;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+}
+
+.Boton-sinaprobar {
+    color: #FFF;
+    border-radius: 15px;
+    background: #D50000;
+    width: 257px;
+    height: 25px;
+}
+
+.Boton-sinaprobar > a > h5 {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px 8px 8px 20px;
+    display: inline-block;
+}
+
+.Boton-sinaprobar > a > h6 {
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 5px;
+    background: #212121;
+    color: #fff;
+    margin: 3px 0px 0px 0px;
+    padding: 2px 2px 2px 4px;
+    display: inline-block;
+    font-family: 'Digital Play St';
+    letter-spacing: 1.5px;
+}
+
+.Boton-aprobadas {
+    color: #FFF;
+    border-radius: 15px;
+    background: #1b5e20;
+    width: 257px;
+    height: 25px;
+}
+
+.Boton-aprobadas > a > h5 {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px 15px 8px 20px;
+    display: inline-block;
+}
+
+.Boton-aprobadas > a > h6 {
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 5px;
+    background: #212121;
+    color: #fff;
+    margin: 3px 0px 0px 0px;
+    padding: 2px 2px 2px 4px;
+    display: inline-block;
+    font-family: 'Digital Play St';
+    letter-spacing: 1.5px;
+}
+
+.Boton-rechazadas {
+    color: #FFF;
+    border-radius: 15px;
+    background: #ffa500;
+    width: 257px;
+    height: 25px;
+}
+
+.Boton-rechazadas > a > h5 {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 0px 8px 8px 20px;
+    display: inline-block;
+}
+
+.Boton-rechazadas > a > h6 {
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 5px;
+    background: #212121;
+    color: #fff;
+    margin: 3px 0px 0px 0px;
+    padding: 2px 2px 2px 4px;
+    display: inline-block;
+    font-family: 'Digital Play St';
+    letter-spacing: 1.5px;
+}
+
+.Boton-red-sinaprobar {
+    background: #d50000;
+    color: #FFF;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 260px;
+}
+
+.Boton-red-sinaprobar > h5 {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 8px 25px;
+}
+
+.Boton-green-aprobadas {
+    background: #1b5e20;
+    color: #FFF;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 260px;
+}
+
+.Boton-green-aprobadas > h5 {
+    font-size: 18px;
+	color:#FFF;
+    font-weight: 500;
+    margin: 0px;
+    padding: 8px 25px;
+}
+
+.Boton-green-aprobadas > h5:hover {
+    font-size: 18px;
+	color:#FFF;
+    font-weight: 500;
+    margin: 0px;
+    padding: 8px 25px;
+}
+
+.Boton-green-aprobadas > a > h5 {
+    font-size: 18px;
+	color:#FFF;
+    font-weight: 500;
+    margin: 0px;
+    padding: 8px 25px;
+}
+
+.Boton-green-aprobadas > a > h5:hover {
+    font-size: 18px;
+	color:#FFF;
+    font-weight: 500;
+    margin: 0px;
+    padding: 8px 25px;
+}
+
+.Boton-yellow-rechazadas {
+    background: #FFA500;
+    color: #FFF;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 260px;
+}
+
+.Boton-yellow-rechazadas > h5 {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0px;
+    padding: 8px 25px;
+}
+
+.table-radius {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.btn-color {
+    font-size: 13px !important;
+    font-weight: 400;
+    background: #033b5c;
+    color: #FFF;
+    border-radius: 15px;
+    margin: 0px;
+}
+
+.btn-color:hover {
+    font-size: 13px !important;
+    font-weight: 400;
+    background: #033b5c;
+    color: #FFF;
+    border-radius: 15px;
+    margin: 0px;
+}
+
+.boton-text > a > h6 {
+    margin: 0px;
+    padding: 0px;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.aprove-no {
+    color: #d50000;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.aprove-si {
+    color: #1b5e20;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.rechazadas {
+    color: #D3870D;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.thid {
+    width: 30px !important;
+    min-width: 30px !important;
+    max-width: 30px !important;
+}
+
+.margin-textline {
+    margin-top: 15px;
+}
+
+
+.cpago{
+	background:#0156172e !important;
+}
+
+table {
+    background: #FFF;
+    border: 0px solid #000 !important;
+}
+
+table.table a {
+    margin: 0;
+    color: #FFF;
+    background: #212529;
+    padding: 7px 10px 7px 10px;
+    border-radius: 15px;
+    font-size: 14px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td h5 {
+	margin:0px;
+}
+
+td h6 {
+	margin:0px;
+}
+
+.special-color:hover {
+	color:#386986;
+}
+
+.tdstyle {
+    font-weight: 500;
+    max-width: 130px;
+    max-height: 40px;
+    white-space: nowrap;
+    overflow: hidden;
+    o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+
+.inputlabel {
+    border: 0px !important;
+}
+
+.custom-file-label {
+    white-space: nowrap;
+    overflow: hidden;
+    o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+
+.inputlabelauto {
+    background: #033B5C !important;
+    padding: 0px 0px 0px 2px;
+    color: #FFF;
+    font-weight: 700;
+    width: 170px;
+    border: 0px;
+}
+
+.LoginBack {
+    background: url('../img/Fondo_Login.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+#loginform {
+    background: #033B5C;
+    border-radius: 12px;
+    max-width: 566px;
+    width: 380px;
+}
+
+.LoginFondo {
+    background: #033B5C;
+    width: 400px;
+}
+
+.LoginAprobar {
+    background: #033B5C;
+}
+
+.LoginLogo {
+    max-width: 310px;
+    min-width: 220px;
+    width: 220px;
+}
+
+.LoginLogo > h3 {
+    font-size: 22px;
+    color: #FFF;
+    margin-top: 20px;
+}
+
+.TextoLogin > h6 {
+    font-size: 16px;
+    color: #FFF;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.textlabel {
+    font-size: 16px;
+    color: #FFF;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#usuario {
+    background: #FFF;
+    border-radius: 8px;
+    text-align: center;
+    color: #5E5F5E;
+    font-size: 16px;
+}
+
+#password {
+    background: #FFF;
+    border-radius: 8px;
+    text-align: center;
+    color: #5E5F5E;
+    font-size: 16px;
+}
+
+#textbox {
+    background: #FFF;
+    border-radius: 8px;
+    text-align: center;
+    color: #5E5F5E;
+    font-size: 16px;
+}
+
+.btn-login {
+    background: #00010A;
+    color: #FFF !important;
+    font-size: 15px;
+    width: 100%;
+    border-radius: 12px;
+    text-transform: none;
+    height: auto;
+    padding: 10px;
+}
+
+.btn-login:hover {
+    background: #00010A;
+    color: #386986 !important;
+    font-size: 15px;
+    width: 100%;
+    border-radius: 12px;
+    text-transform: none;
+    height: auto;
+    padding: 10px;
+}
+
+.text-copy > p {
+    color: #000;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0px 0px 5px 0px;
+    margin: 0px;
+}
+
+.TextGrande > h1 {
+    font-size: 36px;
+    font-weight: 400;
+    color:#000;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #000;
+}

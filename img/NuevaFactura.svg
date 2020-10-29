@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 700 700" style="enable-background:new 0 0 700 700;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#153156;stroke-width:3.1674;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#073C5C;stroke-width:14.5471;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#DEF1FC;stroke:#073C5C;stroke-width:15.3678;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#073C5C;stroke-width:16.5843;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0" d="M683.25,694.76h-666c-6.6,0-12-5.4-12-12v-666c0-6.6,5.4-12,12-12h666c6.6,0,12,5.4,12,12v666
+		C695.25,689.36,689.85,694.76,683.25,694.76z"/>
+	<g>
+		<g>
+			<path class="st1" d="M434.15,502.17H208.17c-6.6,0-12-5.4-12-12V183.7c0-6.6,5.4-12,12-12h225.98c6.6,0,12,5.4,12,12v306.48
+				C446.15,496.77,440.75,502.17,434.15,502.17z"/>
+			<line class="st1" x1="240.29" y1="225.91" x2="405.53" y2="225.91"/>
+			<line class="st1" x1="240.29" y1="280.13" x2="405.53" y2="280.13"/>
+			<line class="st1" x1="240.29" y1="313.93" x2="405.53" y2="313.93"/>
+			<line class="st1" x1="240.29" y1="347.74" x2="405.53" y2="347.74"/>
+			<line class="st1" x1="240.29" y1="381.54" x2="405.53" y2="381.54"/>
+			<line class="st1" x1="240.29" y1="415.34" x2="405.53" y2="415.34"/>
+			<line class="st1" x1="240.29" y1="449.14" x2="405.53" y2="449.14"/>
+		</g>
+		<path class="st2" d="M447.31,471.45L447.31,471.45c-43.05,0-78.27-35.22-78.27-78.27v0c0-43.05,35.22-78.27,78.27-78.27h0
+			c43.05,0,78.27,35.22,78.27,78.27v0C525.58,436.23,490.35,471.45,447.31,471.45z"/>
+		<line class="st3" x1="447.31" y1="364.87" x2="447.31" y2="421.49"/>
+		<line class="st3" x1="475.62" y1="393.18" x2="419" y2="393.18"/>
+	</g>
+</g>
+</svg>
